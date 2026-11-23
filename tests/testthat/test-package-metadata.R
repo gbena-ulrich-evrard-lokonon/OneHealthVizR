@@ -9,7 +9,7 @@ test_that("OneHealthVizR package metadata is correct", {
 
   expect_identical(
     description$Version,
-    "0.0.0.9000"
+    "0.1.0"
   )
 
 })
