@@ -1,18 +1,16 @@
-[![R-CMD-check](https://github.com/gbena-ulrich-evrard-lokonon/OneHealthVizR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gbena-ulrich-evrard-lokonon/OneHealthVizR/actions/workflows/R-CMD-check.yml)
-
-OneHealthVizR
+# OneHealthVizR
 
 [![R-CMD-check](https://github.com/gbena-ulrich-evrard-lokonon/OneHealthVizR/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/gbena-ulrich-evrard-lokonon/OneHealthVizR/actions/workflows/R-CMD-check.yml)
 
-Integrated One Health Data Visualization in R
+## Integrated One Health Data Visualization in R
 
-OneHealthVizR is an R package designed to import, validate, integrate, summarize, and visualize data from the human, animal, and environmental health compartments within an integrated One Health framework.
+OneHealthVizR is an R package designed to import, validate, integrate, summarize, and visualize data from human, animal, and environmental health compartments within an integrated One Health framework.
 
-The package aims to support researchers, epidemiologists, microbiologists, and public health professionals in exploring interconnected health data through reproducible analytical workflows and accessible visualizations.
+The package supports researchers, epidemiologists, microbiologists, and public health professionals in exploring interconnected health data through reproducible analytical workflows and accessible visualizations.
 
-Project status
+**Project status:** Under active development.
 
-Development version: "0.0.0.9000"
+**Current development version:** 0.0.0.9000
 
 OneHealthVizR is currently under active development. Its core functions are implemented and tested, but the API and features may evolve.
 
@@ -30,11 +28,12 @@ One Health framework
 
 OneHealthVizR organizes data around four complementary tables:
 
-Dataset| Description
-Human| Human hosts, demographic information, samples, and infection status
-Animal| Animal hosts, species, production information, samples, and infection status
-Environment| Environmental measurements associated with sites, events, and samples
-Microbial observations| Microorganisms detected or investigated in collected samples
+| Dataset | Description |
+|---|---|
+| Human | Human hosts, demographic information, samples, and infection status |
+| Animal | Animal hosts, species, production information, samples, and infection status |
+| Environment | Environmental measurements associated with sites, events, and samples |
+| Microbial observations | Microorganisms detected or investigated in collected samples |
 
 The package uses linked datasets rather than requiring all information to be stored in a single table.
 
