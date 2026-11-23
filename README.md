@@ -10,7 +10,7 @@ The package supports researchers, epidemiologists, microbiologists, and public h
 
 **Project status:** Under active development.
 
-**Current development version:** 0.0.0.9000
+**Current development version:** 0.1.0
 
 OneHealthVizR is currently under active development. Its core functions are implemented and tested, but the API and features may evolve.
 
