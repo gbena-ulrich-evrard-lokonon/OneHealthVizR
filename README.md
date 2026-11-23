@@ -24,6 +24,37 @@ Key features
 - Visualization: Explore One Health compartments, microorganisms, microbiological results, and environmental parameters.
 - Interactive interface: Explore data through an integrated Shiny application.
 
+Shiny Application
+
+OneHealthVizR includes an interactive Shiny application designed to facilitate the import, validation, exploration, and visualization of integrated One Health datasets.
+
+Application interface
+
+1. Main application interface
+
+"OneHealthVizR application interface" (README_images/Onehealthviz1.jpg)
+
+2. Data import and integration
+
+"OneHealthVizR data import" (README_images/Onehealthviz2.jpg)
+
+3. Data validation
+
+"OneHealthVizR data validation" (README_images/Onehealthviz3.jpg)
+
+4. Study overview
+
+"OneHealthVizR study overview" (README_images/Onehealthviz4.jpg)
+
+5. Data visualization
+
+"OneHealthVizR data visualization" (README_images/Onehealthviz5.jpg)
+
+6. Additional visualization features
+
+"OneHealthVizR additional features" (README_images/Onehealthviz6.jpg)
+
+
 One Health framework
 
 OneHealthVizR organizes data around four complementary tables:
