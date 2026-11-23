@@ -1,0 +1,121 @@
+"observation_id","study_id","sample_id","microorganism_id","method","result_type","result_status","result_value","result_unit"
+"OBS001","OHV_BENIN_2026","HS027","K_PNEUMONIAE","PCR","qualitative","negative","Not detected",
+"OBS002","OHV_BENIN_2026","ES010","K_PNEUMONIAE","Sequencing","qualitative","positive","Detected",
+"OBS003","OHV_BENIN_2026","AS007","S_AUREUS","qPCR","qualitative","negative","Not detected",
+"OBS004","OHV_BENIN_2026","AS006","K_PNEUMONIAE","qPCR","qualitative","positive","Detected",
+"OBS005","OHV_BENIN_2026","AS012","SALMONELLA","qPCR","qualitative","negative","Not detected",
+"OBS006","OHV_BENIN_2026","ES009","S_AUREUS","Sequencing","quantitative","not tested",,"copies/mL"
+"OBS007","OHV_BENIN_2026","ES011","SALMONELLA","qPCR","qualitative","positive","Detected",
+"OBS008","OHV_BENIN_2026","ES002","S_AUREUS","qPCR","quantitative","negative","0","copies/mL"
+"OBS009","OHV_BENIN_2026","AS013","SALMONELLA","Sequencing","quantitative","not tested",,"copies/mL"
+"OBS010","OHV_BENIN_2026","AS006","SALMONELLA","Sequencing","qualitative","positive","Detected",
+"OBS011","OHV_BENIN_2026","HS021","ECOLI","qPCR","qualitative","positive","Detected",
+"OBS012","OHV_BENIN_2026","HS018","ENTEROCOCCUS","Sequencing","qualitative","positive","Detected",
+"OBS013","OHV_BENIN_2026","HS017","K_PNEUMONIAE","Sequencing","qualitative","positive","Detected",
+"OBS014","OHV_BENIN_2026","HS026","S_AUREUS","PCR","qualitative","not tested",,
+"OBS015","OHV_BENIN_2026","HS030","ENTEROCOCCUS","Sequencing","qualitative","positive","Detected",
+"OBS016","OHV_BENIN_2026","HS027","SALMONELLA","Sequencing","quantitative","negative","0","copies/mL"
+"OBS017","OHV_BENIN_2026","HS004","S_AUREUS","Sequencing","qualitative","negative","Not detected",
+"OBS018","OHV_BENIN_2026","HS008","ECOLI","Culture","qualitative","inconclusive",,
+"OBS019","OHV_BENIN_2026","ES011","ECOLI","qPCR","quantitative","inconclusive",,"copies/mL"
+"OBS020","OHV_BENIN_2026","HS019","ECOLI","Culture","qualitative","inconclusive",,
+"OBS021","OHV_BENIN_2026","HS004","ECOLI","Culture","quantitative","not tested",,"copies/mL"
+"OBS022","OHV_BENIN_2026","HS001","K_PNEUMONIAE","Sequencing","qualitative","negative","Not detected",
+"OBS023","OHV_BENIN_2026","AS002","K_PNEUMONIAE","qPCR","qualitative","negative","Not detected",
+"OBS024","OHV_BENIN_2026","AS014","S_AUREUS","Culture","qualitative","inconclusive",,
+"OBS025","OHV_BENIN_2026","ES004","S_AUREUS","qPCR","quantitative","positive","2509.17","copies/mL"
+"OBS026","OHV_BENIN_2026","AS015","SALMONELLA","Culture","quantitative","positive","857.32","copies/mL"
+"OBS027","OHV_BENIN_2026","ES003","ECOLI","qPCR","qualitative","negative","Not detected",
+"OBS028","OHV_BENIN_2026","AS014","K_PNEUMONIAE","qPCR","quantitative","inconclusive",,"copies/mL"
+"OBS029","OHV_BENIN_2026","AS007","K_PNEUMONIAE","qPCR","qualitative","negative","Not detected",
+"OBS030","OHV_BENIN_2026","HS015","ENTEROCOCCUS","Culture","quantitative","negative","0","copies/mL"
+"OBS031","OHV_BENIN_2026","AS014","SALMONELLA","Sequencing","quantitative","negative","0","copies/mL"
+"OBS032","OHV_BENIN_2026","AS001","SALMONELLA","qPCR","quantitative","negative","0","copies/mL"
+"OBS033","OHV_BENIN_2026","ES005","ECOLI","Culture","quantitative","inconclusive",,"copies/mL"
+"OBS034","OHV_BENIN_2026","HS006","SALMONELLA","Culture","quantitative","negative","0","copies/mL"
+"OBS035","OHV_BENIN_2026","HS014","S_AUREUS","Sequencing","quantitative","negative","0","copies/mL"
+"OBS036","OHV_BENIN_2026","ES011","K_PNEUMONIAE","qPCR","quantitative","positive","7173.21","copies/mL"
+"OBS037","OHV_BENIN_2026","AS019","S_AUREUS","PCR","qualitative","positive","Detected",
+"OBS038","OHV_BENIN_2026","AS008","ECOLI","Culture","qualitative","positive","Detected",
+"OBS039","OHV_BENIN_2026","HS022","K_PNEUMONIAE","Sequencing","quantitative","not tested",,"copies/mL"
+"OBS040","OHV_BENIN_2026","HS011","ENTEROCOCCUS","PCR","qualitative","negative","Not detected",
+"OBS041","OHV_BENIN_2026","HS005","K_PNEUMONIAE","Culture","qualitative","negative","Not detected",
+"OBS042","OHV_BENIN_2026","HS010","ENTEROCOCCUS","Sequencing","qualitative","positive","Detected",
+"OBS043","OHV_BENIN_2026","HS017","S_AUREUS","Sequencing","qualitative","negative","Not detected",
+"OBS044","OHV_BENIN_2026","HS007","S_AUREUS","PCR","qualitative","inconclusive",,
+"OBS045","OHV_BENIN_2026","ES004","SALMONELLA","Culture","quantitative","negative","0","copies/mL"
+"OBS046","OHV_BENIN_2026","HS003","SALMONELLA","PCR","quantitative","not tested",,"copies/mL"
+"OBS047","OHV_BENIN_2026","AS010","S_AUREUS","Sequencing","qualitative","negative","Not detected",
+"OBS048","OHV_BENIN_2026","ES012","S_AUREUS","qPCR","quantitative","positive","2751.29","copies/mL"
+"OBS049","OHV_BENIN_2026","HS007","ECOLI","PCR","quantitative","inconclusive",,"copies/mL"
+"OBS050","OHV_BENIN_2026","ES004","ECOLI","Sequencing","qualitative","negative","Not detected",
+"OBS051","OHV_BENIN_2026","ES010","S_AUREUS","Culture","quantitative","negative","0","copies/mL"
+"OBS052","OHV_BENIN_2026","ES008","ENTEROCOCCUS","Culture","quantitative","negative","0","copies/mL"
+"OBS053","OHV_BENIN_2026","AS018","ENTEROCOCCUS","Sequencing","quantitative","negative","0","copies/mL"
+"OBS054","OHV_BENIN_2026","HS022","K_PNEUMONIAE","Culture","qualitative","not tested",,
+"OBS055","OHV_BENIN_2026","HS015","ECOLI","Culture","qualitative","positive","Detected",
+"OBS056","OHV_BENIN_2026","HS005","ECOLI","qPCR","quantitative","negative","0","copies/mL"
+"OBS057","OHV_BENIN_2026","HS004","K_PNEUMONIAE","Culture","qualitative","negative","Not detected",
+"OBS058","OHV_BENIN_2026","AS017","S_AUREUS","PCR","qualitative","positive","Detected",
+"OBS059","OHV_BENIN_2026","AS010","ENTEROCOCCUS","PCR","qualitative","negative","Not detected",
+"OBS060","OHV_BENIN_2026","HS014","SALMONELLA","PCR","qualitative","positive","Detected",
+"OBS061","OHV_BENIN_2026","HS002","SALMONELLA","Sequencing","quantitative","negative","0","copies/mL"
+"OBS062","OHV_BENIN_2026","HS030","ECOLI","Culture","quantitative","positive","5004.41","copies/mL"
+"OBS063","OHV_BENIN_2026","HS022","S_AUREUS","Sequencing","qualitative","positive","Detected",
+"OBS064","OHV_BENIN_2026","HS008","ENTEROCOCCUS","Culture","qualitative","negative","Not detected",
+"OBS065","OHV_BENIN_2026","HS009","SALMONELLA","Culture","qualitative","positive","Detected",
+"OBS066","OHV_BENIN_2026","HS008","ECOLI","PCR","qualitative","negative","Not detected",
+"OBS067","OHV_BENIN_2026","HS008","ENTEROCOCCUS","Sequencing","qualitative","not tested",,
+"OBS068","OHV_BENIN_2026","AS015","ECOLI","Sequencing","quantitative","positive","9564.25","copies/mL"
+"OBS069","OHV_BENIN_2026","AS010","S_AUREUS","qPCR","qualitative","negative","Not detected",
+"OBS070","OHV_BENIN_2026","AS020","S_AUREUS","Culture","qualitative","negative","Not detected",
+"OBS071","OHV_BENIN_2026","ES001","K_PNEUMONIAE","Culture","qualitative","negative","Not detected",
+"OBS072","OHV_BENIN_2026","ES006","K_PNEUMONIAE","PCR","qualitative","negative","Not detected",
+"OBS073","OHV_BENIN_2026","HS024","ECOLI","PCR","qualitative","negative","Not detected",
+"OBS074","OHV_BENIN_2026","ES009","ENTEROCOCCUS","qPCR","quantitative","negative","0","copies/mL"
+"OBS075","OHV_BENIN_2026","HS014","S_AUREUS","PCR","quantitative","inconclusive",,"copies/mL"
+"OBS076","OHV_BENIN_2026","HS003","ENTEROCOCCUS","Sequencing","qualitative","negative","Not detected",
+"OBS077","OHV_BENIN_2026","AS005","K_PNEUMONIAE","qPCR","quantitative","positive","2786.79","copies/mL"
+"OBS078","OHV_BENIN_2026","AS018","SALMONELLA","Culture","qualitative","positive","Detected",
+"OBS079","OHV_BENIN_2026","AS009","SALMONELLA","Sequencing","quantitative","not tested",,"copies/mL"
+"OBS080","OHV_BENIN_2026","AS002","SALMONELLA","qPCR","qualitative","positive","Detected",
+"OBS081","OHV_BENIN_2026","AS013","K_PNEUMONIAE","Sequencing","qualitative","positive","Detected",
+"OBS082","OHV_BENIN_2026","HS025","SALMONELLA","Culture","quantitative","positive","4354.55","copies/mL"
+"OBS083","OHV_BENIN_2026","ES011","K_PNEUMONIAE","Sequencing","quantitative","negative","0","copies/mL"
+"OBS084","OHV_BENIN_2026","HS020","SALMONELLA","qPCR","quantitative","positive","3937.32","copies/mL"
+"OBS085","OHV_BENIN_2026","HS010","ECOLI","qPCR","qualitative","negative","Not detected",
+"OBS086","OHV_BENIN_2026","HS029","SALMONELLA","Culture","qualitative","positive","Detected",
+"OBS087","OHV_BENIN_2026","HS011","K_PNEUMONIAE","Culture","quantitative","negative","0","copies/mL"
+"OBS088","OHV_BENIN_2026","HS026","K_PNEUMONIAE","qPCR","qualitative","negative","Not detected",
+"OBS089","OHV_BENIN_2026","HS001","K_PNEUMONIAE","PCR","qualitative","positive","Detected",
+"OBS090","OHV_BENIN_2026","HS023","ECOLI","qPCR","quantitative","negative","0","copies/mL"
+"OBS091","OHV_BENIN_2026","HS027","SALMONELLA","Culture","quantitative","not tested",,"copies/mL"
+"OBS092","OHV_BENIN_2026","ES004","SALMONELLA","qPCR","quantitative","inconclusive",,"copies/mL"
+"OBS093","OHV_BENIN_2026","HS018","S_AUREUS","Culture","qualitative","negative","Not detected",
+"OBS094","OHV_BENIN_2026","HS022","ENTEROCOCCUS","qPCR","quantitative","not tested",,"copies/mL"
+"OBS095","OHV_BENIN_2026","AS010","SALMONELLA","Culture","quantitative","negative","0","copies/mL"
+"OBS096","OHV_BENIN_2026","HS023","ECOLI","PCR","qualitative","inconclusive",,
+"OBS097","OHV_BENIN_2026","HS030","ECOLI","PCR","quantitative","positive","9457.64","copies/mL"
+"OBS098","OHV_BENIN_2026","ES009","ENTEROCOCCUS","qPCR","qualitative","positive","Detected",
+"OBS099","OHV_BENIN_2026","ES007","ECOLI","Sequencing","qualitative","negative","Not detected",
+"OBS100","OHV_BENIN_2026","AS018","K_PNEUMONIAE","Culture","qualitative","positive","Detected",
+"OBS101","OHV_BENIN_2026","ES006","ECOLI","Sequencing","quantitative","negative","0","copies/mL"
+"OBS102","OHV_BENIN_2026","AS019","ENTEROCOCCUS","Culture","qualitative","negative","Not detected",
+"OBS103","OHV_BENIN_2026","HS021","S_AUREUS","Culture","qualitative","positive","Detected",
+"OBS104","OHV_BENIN_2026","HS028","ECOLI","Sequencing","qualitative","positive","Detected",
+"OBS105","OHV_BENIN_2026","AS018","ECOLI","Culture","qualitative","positive","Detected",
+"OBS106","OHV_BENIN_2026","AS015","ECOLI","qPCR","qualitative","negative","Not detected",
+"OBS107","OHV_BENIN_2026","ES010","ECOLI","PCR","quantitative","not tested",,"copies/mL"
+"OBS108","OHV_BENIN_2026","AS019","S_AUREUS","qPCR","qualitative","positive","Detected",
+"OBS109","OHV_BENIN_2026","AS011","K_PNEUMONIAE","Culture","qualitative","positive","Detected",
+"OBS110","OHV_BENIN_2026","ES002","ECOLI","PCR","qualitative","positive","Detected",
+"OBS111","OHV_BENIN_2026","AS011","SALMONELLA","Sequencing","quantitative","positive","9167.55","copies/mL"
+"OBS112","OHV_BENIN_2026","AS008","ECOLI","Culture","quantitative","positive","2130.27","copies/mL"
+"OBS113","OHV_BENIN_2026","ES011","ECOLI","Culture","quantitative","positive","4194.89","copies/mL"
+"OBS114","OHV_BENIN_2026","HS030","ENTEROCOCCUS","Sequencing","qualitative","negative","Not detected",
+"OBS115","OHV_BENIN_2026","HS002","ECOLI","Sequencing","quantitative","negative","0","copies/mL"
+"OBS116","OHV_BENIN_2026","HS021","S_AUREUS","qPCR","quantitative","positive","8811.93","copies/mL"
+"OBS117","OHV_BENIN_2026","AS016","ECOLI","qPCR","quantitative","negative","0","copies/mL"
+"OBS118","OHV_BENIN_2026","HS004","SALMONELLA","PCR","quantitative","positive","7998.29","copies/mL"
+"OBS119","OHV_BENIN_2026","AS014","ENTEROCOCCUS","Culture","quantitative","not tested",,"copies/mL"
+"OBS120","OHV_BENIN_2026","ES008","ECOLI","PCR","quantitative","not tested",,"copies/mL"

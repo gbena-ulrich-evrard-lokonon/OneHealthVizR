@@ -1,0 +1,35 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project files
+.Rproj.user/
+.Ruserdata
+
+# R package check/build files
+*.Rcheck/
+*.tar.gz
+*.Rout
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local environment files
+.Renviron
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Generated documentation
+# Keep man/ and NAMESPACE under version control

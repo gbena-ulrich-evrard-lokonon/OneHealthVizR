@@ -1,0 +1,26 @@
+Package: OneHealthVizR
+Title: Integrated One Health Data Visualization
+Version: 0.0.0.9000
+Authors@R:
+    person("Gbèna Ulrich Evrard", "Lokonon",
+           email = "ulrichlokn@gmail.com",
+           role = c("aut", "cre"))
+Description: Provides tools to import, validate, integrate and
+    visualize human, animal and environmental health data
+    within an integrated One Health framework. Supports
+    reproducible scientific analyses and static and interactive
+    visualizations.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends:
+    R (>= 4.1.0)
+Imports:
+    readr,
+    readxl,
+    ggplot2
+Suggests:
+    shiny,
+    testthat (>= 3.0.0),
+    roxygen2
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.1.1
