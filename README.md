@@ -2,6 +2,8 @@
 
 OneHealthVizR
 
+[![R-CMD-check](https://github.com/gbena-ulrich-evrard-lokonon/OneHealthVizR/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/gbena-ulrich-evrard-lokonon/OneHealthVizR/actions/workflows/R-CMD-check.yml)
+
 Integrated One Health Data Visualization in R
 
 OneHealthVizR is an R package designed to import, validate, integrate, summarize, and visualize data from the human, animal, and environmental health compartments within an integrated One Health framework.
