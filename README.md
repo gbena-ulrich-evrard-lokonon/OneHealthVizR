@@ -32,27 +32,27 @@ Application interface
 
 1. Main application interface
 
-"OneHealthVizR application interface" (README_images/Onehealthviz1.jpg)
+"OneHealthVizR application interface" [README_images/Onehealthviz1.jpg]
 
 2. Data import and integration
 
-"OneHealthVizR data import" (README_images/Onehealthviz2.jpg)
+"OneHealthVizR data import" [README_images/Onehealthviz2.jpg]
 
 3. Data validation
 
-"OneHealthVizR data validation" (README_images/Onehealthviz3.jpg)
+"OneHealthVizR data validation" [README_images/Onehealthviz3.jpg]
 
 4. Study overview
 
-"OneHealthVizR study overview" (README_images/Onehealthviz4.jpg)
+"OneHealthVizR study overview" [README_images/Onehealthviz4.jpg]
 
 5. Data visualization
 
-"OneHealthVizR data visualization" (README_images/Onehealthviz5.jpg)
+"OneHealthVizR data visualization" [README_images/Onehealthviz5.jpg]
 
 6. Additional visualization features
 
-"OneHealthVizR additional features" (README_images/Onehealthviz6.jpg)
+"OneHealthVizR additional features" [README_images/Onehealthviz6.jpg]
 
 
 One Health framework
